@@ -10,4 +10,5 @@
 
 @interface method_of_the_dayView : ScreenSaverView
 
+
 @end
